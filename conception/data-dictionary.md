@@ -4,8 +4,8 @@
 
 https://docs.google.com/spreadsheets/d/10GPAk4J7TdcFse0ASyppusiOplTqOOq7i_a1hBwNMzs/edit?usp=sharing
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
-## UML Image
+## MCD Image
 
 ![alt text](image.png)
